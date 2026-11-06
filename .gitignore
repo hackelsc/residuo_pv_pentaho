@@ -1,0 +1,11 @@
+# Anotações pessoais
+notes/
+
+# Dados brutos da ANEEL (grandes demais para o GitHub)
+data/raw/
+
+# Relatório (publicado no Zenodo) e referências de terceiros
+relatorio/
+
+# Arquivos temporários do Word e do Office
+~$*
