@@ -2,7 +2,7 @@
 
 Pipeline de dados que estima quanto resíduo os painéis fotovoltaicos instalados no Brasil vão gerar ao chegar ao fim da vida útil, por unidade federativa (UF) e por ano, a partir das bases públicas da ANEEL.
 
-**Relatório técnico completo (acesso aberto):** [inserir link do DOI]
+**Relatório técnico completo (acesso aberto):** [https://doi.org/10.5281/zenodo.23993169](https://doi.org/10.5281/zenodo.23993169)
 
 ![Geração total de resíduos fotovoltaicos no Brasil por ano](imagens/residuo_total_brasil.png)
 
@@ -146,7 +146,7 @@ Os resultados são estimativas de ordem de grandeza: o ano de instalação da GD
 
 ## Como citar
 
-CARDOSO, R. S. **Estimativa e projeção da geração de resíduos fotovoltaicos no Brasil por unidade federativa (2011–2054)**. Relatório técnico. João Pessoa, 2026. DOI: [inserir DOI].
+CARDOSO, R. S. **Estimativa e projeção da geração de resíduos fotovoltaicos no Brasil por unidade federativa (2011–2054)**. Relatório técnico. João Pessoa, 2026. DOI: [10.5281/zenodo.23993170](https://doi.org/10.5281/zenodo.23993170).
 
 ## Licença
 
